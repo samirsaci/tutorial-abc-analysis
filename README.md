@@ -22,8 +22,8 @@ This tutorial walks you step-by-step through building a full Python notebook to 
 ## 📁 Datasets  
 You can download the example datasets used in the tutorial here:
 
-- **Dataset – 100 Days:** https://bit.ly/transactional-data-100  
-- **Dataset – Light Version:** https://bit.ly/transactional-data-light  
+- **Dataset – 100 Days:** https://drive.google.com/file/d/156ATPe-6u_NABo4yIuUw6se14DxhF-_i/view?usp=sharing  
+- **Dataset – Light Version:** https://drive.google.com/file/d/1Byg4jSKg2_6-qqc1K7A2NUMKizzXrszs/view?usp=sharing  
 
 Use these datasets directly or adapt them to your business scenario.
 
@@ -35,11 +35,11 @@ If you don’t have Python installed on your machine, you can run the entire not
 Simply upload the notebook or import it from GitHub, and you're ready to run the analysis.
 
 ## 📚 Useful Links  
-- LogiGreen Apps: https://bit.ly/logi-green-app  
-- LogiGreen Blog: https://bit.ly/logigreen-case-studies  
+- LogiGreen Apps: https://apps.logi-green.com/  
+- LogiGreen Blog: https://www.logi-green.com/case-studies/  
 - GitHub Repository (Source Code): https://github.com/samirsaci/tutorial-abc-analysis  
 - Reduce Warehouse Space with Pareto Analysis:  
-  https://medium.com/towards-data-science/reduce-warehouse-space-with-the-pareto-principle-using-python-e722a6babe0e  
+  https://www.samirsaci.com/reduce-warehouse-space-with-the-pareto-principle-using-python/  
 
 ## About me 🤓  
 Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
